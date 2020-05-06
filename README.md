@@ -3,11 +3,13 @@ snake eat apple game
 
 ---
 
-red : the head of the snake 
-green : body of the snake
-blue : apple 
+![screenshot](src/screenshot.png)
 
-Direction : UP , DOWN , LEFT , RIGHT 
+red : the head of the snake  
+green : body of the snake  
+blue : apple   
+
+Direction : UP , DOWN , LEFT , RIGHT  
 speed up : space 
 
 ---
